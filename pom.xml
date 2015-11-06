@@ -68,7 +68,7 @@
                                 <untar compression="gzip" src="${project.build.directory}/${project.artifactId}.tar.gz" dest="${project.build.directory}" />
                                 <echo message="moving resources" />
                                 <move todir="${destDir}">
-                                    <fileset dir="${project.build.directory}/elfinder-${upstream.version}" />
+                                    <fileset dir="${project.build.directory}/elFinder-${upstream.version}" />
                                 </move>
                             </target>
                         </configuration>
