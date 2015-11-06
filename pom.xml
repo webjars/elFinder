@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>elFinder</artifactId>
-    <version>2.0.3-SNAPSHOT</version>
+    <version>2.0.3</version>
     <name>elFinder</name>
     <description>WebJar for elFinder</description>
     <url>http://webjars.org</url>
@@ -47,7 +47,7 @@
         <url>http://github.com/webjars/elFinder</url>
         <connection>scm:git:https://github.com/webjars/elFinder.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/elFinder.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>elFinder-2.0.3</tag>
     </scm>
     
     <build>
